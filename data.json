@@ -61,8 +61,8 @@
             "github_link": "https://github.com/JairoAussie/Public-API-requests",
             "image_urls": [
                 "../static/images/PR5EmployeeDirectoryTop.png",
-                "../static/imagesPR5EmployeeDirectory1.png",
-				"../static/imagesPR5EmployeeDirectory2.png"
+                "../static/images/PR5EmployeeDirectory1.png",
+				"../static/images/PR5EmployeeDirectory2.png"
             ]
         }
     ]
