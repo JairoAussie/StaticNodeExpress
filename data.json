@@ -1,0 +1,69 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This webpage shows random quotes. Every time you click the button or every 10 seconds. It's coded in Javascript.",
+            "technologies": ["JavaScript", "HTML", "CSS", ],
+            "live_link": "https://jairoaussie.github.io/RandomQuotesGeneratorWeb/",
+            "github_link": "https://github.com/JairoAussie/RandomQuotesGeneratorWeb",
+            "image_urls": [
+                "images/PR1RandomQuotesTop.png",
+                "images/PR1RandomQuotes1.png",
+                "images/PR1RandomQuotes2.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "This website displays several names in a page, when this page is 'full', a new page is created. We can filter by name of student as well.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jairoaussie.github.io/StudentsList/",
+            "github_link": "https://github.com/JairoAussie/StudentsList",
+            "image_urls": [
+                "images/PR2ListPaginationTop.png",
+                "images/PR2ListPagination1.png",
+                "images/PR2ListPagination2.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form Validation",
+            "description": "It's a form with all kind of validations.",
+            "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+            "live_link": "https://jairoaussie.github.io/FormValidation/",
+            "github_link": "https://github.com/JairoAussie/FormValidation/",
+            "image_urls": [
+                "images/PR3FormValidationTop.png",
+                "images/PR3FormValidation1.png",
+                "images/PR3FormValidation2.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game",
+            "description": "It's a game similar to the hangman or the wheel of fortune, you have to guess the phrase before running out of lifes. When you finish you can start again.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://jairoaussie.github.io/PhaseHunter/",
+            "github_link": "https://github.com/JairoAussie/PhaseHunter/",
+            "image_urls": [
+                "images/PR4PhraseHunterTop.png",
+                "images/PR4PhraseHunter1.png",
+                "images/PR4PhraseHunter2.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API requests",
+            "description": "This website gets 12 random employees from an API and displays them. If you want to know more about one of them you click on him or her and window displays that extra info.",
+            "technologies": ["JavaScript", "JSON", "API", "AJAX", "HTML", "CSS"],
+            "live_link": "https://jairoaussie.github.io/Public-API-requests/",
+            "github_link": "https://github.com/JairoAussie/Public-API-requests",
+            "image_urls": [
+                "images/PR5EmployeeDirectoryTop.png",
+                "imagesPR5EmployeeDirectory1.png",
+				"imagesPR5EmployeeDirectory2.png"
+            ]
+        }
+    ]
+}
