@@ -1,15 +1,14 @@
 const express = require('express');
-const bodyParser = require('body-parser');
-
+const data = require('./data.json');
+const projects = data.projects;
 const app = express();
 
-app.use(bodyParser.urlencoded({ extended: false}));
 app.use('/static', express.static('public'));
 
 app.set('view engine', 'pug');
 
 app.get('/', (req, res) => {
-    res.render('index');
+    res.render('index',{projects});
 });
 
 app.get('/about', (req, res) => {

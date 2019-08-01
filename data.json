@@ -4,13 +4,13 @@
             "id": 0,
             "project_name": "Random Quote Generator",
             "description": "This webpage shows random quotes. Every time you click the button or every 10 seconds. It's coded in Javascript.",
-            "technologies": ["JavaScript", "HTML", "CSS", ],
+            "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://jairoaussie.github.io/RandomQuotesGeneratorWeb/",
             "github_link": "https://github.com/JairoAussie/RandomQuotesGeneratorWeb",
             "image_urls": [
-                "images/PR1RandomQuotesTop.png",
-                "images/PR1RandomQuotes1.png",
-                "images/PR1RandomQuotes2.png"
+                "../static/images/PR1RandomQuotesTop.png",
+                "../static/images/PR1RandomQuotes1.png",
+                "../static/images/PR1RandomQuotes2.png"
             ]
         },
         {
@@ -21,9 +21,9 @@
             "live_link": "https://jairoaussie.github.io/StudentsList/",
             "github_link": "https://github.com/JairoAussie/StudentsList",
             "image_urls": [
-                "images/PR2ListPaginationTop.png",
-                "images/PR2ListPagination1.png",
-                "images/PR2ListPagination2.png"
+                "../static/images/PR2ListPaginationTop.png",
+                "../static/images/PR2ListPagination1.png",
+                "../static/images/PR2ListPagination2.png"
             ]
         },
         {
@@ -34,9 +34,9 @@
             "live_link": "https://jairoaussie.github.io/FormValidation/",
             "github_link": "https://github.com/JairoAussie/FormValidation/",
             "image_urls": [
-                "images/PR3FormValidationTop.png",
-                "images/PR3FormValidation1.png",
-                "images/PR3FormValidation2.png"
+                "../static/images/PR3FormValidationTop.png",
+                "../static/images/PR3FormValidation1.png",
+                "../static/images/PR3FormValidation2.png"
             ]
         },
         {
@@ -47,9 +47,9 @@
             "live_link": "https://jairoaussie.github.io/PhaseHunter/",
             "github_link": "https://github.com/JairoAussie/PhaseHunter/",
             "image_urls": [
-                "images/PR4PhraseHunterTop.png",
-                "images/PR4PhraseHunter1.png",
-                "images/PR4PhraseHunter2.png"
+                "../static/images/PR4PhraseHunterTop.png",
+                "../static/images/PR4PhraseHunter1.png",
+                "../static/images/PR4PhraseHunter2.png"
             ]
         },
         {
@@ -60,9 +60,9 @@
             "live_link": "https://jairoaussie.github.io/Public-API-requests/",
             "github_link": "https://github.com/JairoAussie/Public-API-requests",
             "image_urls": [
-                "images/PR5EmployeeDirectoryTop.png",
-                "imagesPR5EmployeeDirectory1.png",
-				"imagesPR5EmployeeDirectory2.png"
+                "../static/images/PR5EmployeeDirectoryTop.png",
+                "../static/imagesPR5EmployeeDirectory1.png",
+				"../static/imagesPR5EmployeeDirectory2.png"
             ]
         }
     ]
